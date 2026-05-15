@@ -1,0 +1,243 @@
+{
+  "header": {
+    "nav": {
+      "inicio": "Início",
+      "solucoes": "Soluções",
+      "produtos": "Produtos",
+      "contato": "Contato"
+    },
+    "entrar": "Entrar",
+    "especialista": "Fale com um especialista",
+    "abrirConta": "Abra sua conta",
+    "aria": {
+      "logo": "Cartwave — página inicial",
+      "mainNav": "Navegação principal",
+      "mobileNav": "Navegação mobile",
+      "openMenu": "Abrir menu",
+      "closeMenu": "Fechar menu"
+    }
+  },
+  "hero": {
+    "heading": "Soluções de <highlight>pagamento</highlight> completas para empresas",
+    "subheading": "Simplifique suas operações financeiras com nossa plataforma de pagamentos. APIs robustas, processos automatizados e a segurança que sua empresa precisa.",
+    "badge": "Mais de 1000+ empresas confiam na Cartwave",
+    "cta": {
+      "primary": "Começar agora",
+      "secondary": "Falar com vendas"
+    },
+    "features": [
+      "Integração simples e rápida",
+      "APIs de Pix, boletos e mais",
+      "Suporte técnico especializado",
+      "Compliance e segurança total"
+    ],
+    "dashboard": {
+      "title": "Dashboard Cartwave",
+      "transactions": {
+        "pix": {
+          "label": "Pix recebido",
+          "time": "Agora mesmo",
+          "amount": "R$ 1.250,00"
+        },
+        "boleto": {
+          "label": "Boleto pago",
+          "time": "2 min atrás",
+          "amount": "R$ 850,00"
+        },
+        "split": {
+          "label": "Split realizado",
+          "time": "5 min atrás",
+          "amount": "R$ 2.100,00"
+        }
+      }
+    }
+  },
+  "products": {
+    "heading": "Produtos e Soluções",
+    "subheading": "Oferecemos uma gama completa de soluções financeiras para impulsionar o crescimento do seu negócio\n\n",
+    "viewAll": "Ver todas as soluções",
+    "learnMore": "Saiba mais",
+    "featuresAriaLabel": "Recursos de {title}",
+    "learnMoreAriaLabel": "{label} sobre {title}",
+    "items": {
+      "pix": {
+        "title": "API de Pix",
+        "description": "Operações de Cash IN e Cash OUT com a API Pix mais robusta do mercado.",
+        "features": [
+          "Pix 24/7",
+          "QR Code dinâmico",
+          "Webhooks em tempo real",
+          "Conciliação automática"
+        ]
+      },
+      "boletos": {
+        "title": "Emissão de Boletos",
+        "description": "Gere boletos com QR Code Pix integrado para máxima conversão de pagamentos.",
+        "features": [
+          "QR Code Pix",
+          "Vencimento flexível",
+          "Juros e multa",
+          "API REST"
+        ]
+      },
+      "referral": {
+        "title": "Indique e Ganhe",
+        "description": "Programa de indicação completo para crescer sua base de clientes organicamente.",
+        "features": [
+          "Dashboard de  indicações",
+          "Comissões automáticas",
+          "Links personalizados",
+          "Relatórios detalhados"
+        ]
+      },
+      "split": {
+        "title": "Split de Pagamentos",
+        "description": "Divida valores automaticamente entre diferentes destinatários com regras personalizadas.",
+        "features": [
+          "Divisão automática",
+          "Múltiplos destinatários",
+          "Regras flexíveis",
+          "Histórico completo"
+        ]
+      },
+      "checkout": {
+        "title": "Checkout Customizável",
+        "description": "Crie experiências de pagamento únicas com nosso checkout totalmente personalizável.",
+        "features": [
+          "Design flexível",
+          "Múltiplos métodos",
+          "Mobile first",
+          "Conversão otimizada"
+        ]
+      }
+    }
+  },
+  "whyCartwave": {
+    "heading": "Por que escolher a <highlight>Cartwave</highlight>",
+    "subheading": "Mais de 1000 empresas confiam em nossa tecnologia para processar milhões em transações",
+    "items": {
+      "integration": {
+        "title": "Integração Rápida",
+        "metric": "<highlight>< 1 hora</highlight> para integrar",
+        "description": "APIs REST simples e documentação completa para integração em minutos"
+      },
+      "security": {
+        "title": "Segurança Total",
+        "metric": "<highlight>99.5%</highlight> de uptime",
+        "description": "Certificações de segurança e compliance com as melhores práticas do mercado"
+      },
+      "support": {
+        "title": "Suporte Especializado",
+        "metric": "<highlight>24/7</highlight> suporte",
+        "description": "Time técnico dedicado para suporte e consultoria durante toda a jornada"
+      },
+      "scale": {
+        "title": "Crescimento Escalável",
+        "metric": "<highlight>1000+</highlight> transações/min",
+        "description": "Infraestrutura robusta que cresce junto com o seu negócio"
+      },
+      "technology": {
+        "title": "Tecnologia Avançada",
+        "metric": "<highlight>5</highlight> linguagens",
+        "description": "Stack moderno com APIs RESTful, webhooks e SDKs em diversas linguagens"
+      },
+      "processing": {
+        "title": "Processamento Instantâneo",
+        "metric": "<highlight>< 1seg</highlight> processamento",
+        "description": "Liquidação em tempo real para Pix e processamento otimizado para outros métodos"
+      }
+    },
+    "metrics": {
+      "companies": {
+        "value": "1000+",
+        "label": "Empresas ativas"
+      },
+      "volume": {
+        "value": "R$ 2B+",
+        "label": "Processados"
+      },
+      "uptime": {
+        "value": "99.5%",
+        "label": "Disponibilidade"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Suporte técnico"
+      }
+    }
+  },
+  "finalCta": {
+    "heading": "Pronto para revolucionar seus pagamentos?",
+    "subheading": "Junte-se a mais de 1000 empresas que já escolheram a Cartwave para simplificar suas operações financeiras",
+    "cta": {
+      "primary": "Começar agora",
+      "secondary": "Falar com vendas"
+    },
+    "benefits": {
+      "implementation": {
+        "title": "Implementação gratuita",
+        "description": "Setup e integração sem custos adicionais"
+      },
+      "support": {
+        "title": "Suporte dedicado",
+        "description": "Time técnico especializado 24/7"
+      },
+      "fees": {
+        "title": "Sem taxa de setup",
+        "description": "Pague apenas pelas transações processadas"
+      }
+    }
+  },
+  "footer": {
+    "description": "Cartwave é uma instituição de pagamento que oferece soluções completas e seguras para empresas de todos os portes.",
+    "location": "Goiânia-GO - Brasil",
+    "contact": {
+      "phone": "+55 62 92002-8202",
+      "email": "atendimento@checkoutcartwave.com.br",
+      "ombudsman": "ouvidoria@checkoutcartwave.com.br"
+    },
+    "cnpj": "CNPJ: 33.207.641/0001-70",
+    "products": {
+      "heading": "Produtos",
+      "links": {
+        "pix": "API de Pix",
+        "boletos": "Emissão de Boletos",
+        "split": "Split de Pagamentos",
+        "checkout": "Checkout Customizável",
+        "referral": "Indique e Ganhe"
+      }
+    },
+    "company": {
+      "heading": "Empresa",
+      "links": {
+        "about": "Sobre nós",
+        "careers": "Carreira",
+        "press": "Imprensa",
+        "blog": "Blog",
+        "partners": "Parceiros",
+        "contact": "Contato"
+      }
+    },
+    "newsletter": {
+      "heading": "Newsletter",
+      "description": "Receba as últimas atualizações sobre nossos produtos e mercado",
+      "placeholder": "Seu e-mail",
+      "button": "Inscrever",
+      "privacy": "Não enviamos spam. Cancele a qualquer momento.",
+      "formAriaLabel": "Formulário de newsletter",
+      "emailError": "Por favor, insira um e-mail válido."
+    },
+    "aria": {
+      "footer": "Rodapé do site",
+      "productsNav": "Links de produtos",
+      "companyNav": "Links da empresa",
+      "legalNav": "Links legais"
+    },
+    "legal": {
+      "privacy": "Privacidade",
+      "terms": "Termos de Uso",
+      "cookies": "Política de Cookies"
+    },
+    "copyright": "© 2024 Cartwave Instituição de Pagamento Ltda. Todos os direitos reservados."
+  }
+}
